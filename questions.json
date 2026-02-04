@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "question": "What is the primary purpose of the application and who are its end-users?",
+    "key": "purpose_and_users"
+  },
+  {
+    "id": 2,
+    "question": "What are the key features and functionalities?",
+    "key": "key_features"
+  },
+  {
+    "id": 3,
+    "question": "What are the expected number of users and the anticipated request volume?",
+    "key": "scalability_requirements"
+  }
+]
