@@ -13,5 +13,15 @@
     "id": 3,
     "question": "What are the expected number of users and the anticipated request volume?",
     "key": "scalability_requirements"
+  },
+  {
+    "id": 4,
+    "question": "Is the application hosted as SaaS or deployed into a private cloud?",
+    "key": "deployment_model"
+  },
+  {
+    "id": 5,
+    "question": "Will the application be containerised or does it require VMs? ?",
+    "key": "compute_type"
   }
 ]
