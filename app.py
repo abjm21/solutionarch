@@ -19,7 +19,7 @@ def load_questions():
         return json.load(f)
 
 questions = load_questions()
-model = genai.GenerativeModel('gemini-2.5-pro-latest')
+model = genai.GenerativeModel('gemini-2.5-pro')
 
 # --- 2. SESSION STATE INITIALIZATION ---
 
